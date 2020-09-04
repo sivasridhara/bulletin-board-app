@@ -1,0 +1,14 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   Dockerfile
+#	new file:   LICENSE
+#	new file:   backend/api.js
+#	new file:   backend/events.js
+#	new file:   backend/index.js
+#	new file:   fonts/geomanist/hinted-Geomanist-Book.woff2
+#
